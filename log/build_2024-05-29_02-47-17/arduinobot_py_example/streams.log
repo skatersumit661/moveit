@@ -1,0 +1,20 @@
+[0.329s] Invoking command in '/home/sk8terboi/arduinobot_ws/build/arduinobot_py_example': PYTHONPATH=/home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/prefix_override:/home/sk8terboi/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/build --no-deps symlink_data --force
+[0.463s] running develop
+[0.464s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.464s]   warnings.warn(
+[0.539s] running egg_info
+[0.539s] writing arduinobot_py_example.egg-info/PKG-INFO
+[0.539s] writing dependency_links to arduinobot_py_example.egg-info/dependency_links.txt
+[0.539s] writing entry points to arduinobot_py_example.egg-info/entry_points.txt
+[0.539s] writing requirements to arduinobot_py_example.egg-info/requires.txt
+[0.539s] writing top-level names to arduinobot_py_example.egg-info/top_level.txt
+[0.540s] reading manifest file 'arduinobot_py_example.egg-info/SOURCES.txt'
+[0.541s] writing manifest file 'arduinobot_py_example.egg-info/SOURCES.txt'
+[0.541s] running build_ext
+[0.541s] Creating /home/sk8terboi/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages/arduinobot-py-example.egg-link (link to .)
+[0.542s] 
+[0.542s] Installed /home/sk8terboi/arduinobot_ws/build/arduinobot_py_example
+[0.542s] running symlink_data
+[0.542s] symbolically linking /home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/resource/arduinobot_py_example -> /home/sk8terboi/arduinobot_ws/install/arduinobot_py_example/share/ament_index/resource_index/packages
+[0.542s] symbolically linking /home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/package.xml -> /home/sk8terboi/arduinobot_ws/install/arduinobot_py_example/share/arduinobot_py_example
+[0.557s] Invoked command in '/home/sk8terboi/arduinobot_ws/build/arduinobot_py_example' returned '0': PYTHONPATH=/home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/prefix_override:/home/sk8terboi/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/build --no-deps symlink_data --force

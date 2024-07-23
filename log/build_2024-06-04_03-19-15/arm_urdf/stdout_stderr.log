@@ -1,0 +1,33 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sk8terboi/arduinobot_ws/build/arm_urdf
+-- Install configuration: ""
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/meshes
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/meshes/link_4.STL
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/meshes/link_3.STL
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/meshes/link_0.STL
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/meshes/link_1.STL
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/meshes/base_link.STL
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/meshes/link_2.STL
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/urdf
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/urdf/arm_urdf.urdf
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/urdf/arm_urdf.csv
+-- Up-to-date: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/ament_index/resource_index/package_run_dependencies/arm_urdf
+-- Up-to-date: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/ament_index/resource_index/parent_prefix_path/arm_urdf
+-- Up-to-date: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/environment/ament_prefix_path.sh
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/environment/path.sh
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/environment/path.dsv
+-- Up-to-date: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/local_setup.bash
+-- Up-to-date: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/local_setup.sh
+-- Up-to-date: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/local_setup.zsh
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/local_setup.dsv
+-- Installing: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/package.dsv
+-- Up-to-date: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/ament_index/resource_index/packages/arm_urdf
+-- Up-to-date: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/cmake/arm_urdfConfig.cmake
+-- Up-to-date: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/cmake/arm_urdfConfig-version.cmake
+-- Up-to-date: /home/sk8terboi/arduinobot_ws/install/arm_urdf/share/arm_urdf/package.xml

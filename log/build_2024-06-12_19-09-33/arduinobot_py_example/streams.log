@@ -1,0 +1,21 @@
+[0.760s] Invoking command in '/home/sk8terboi/arduinobot_ws/src/arduinobot_py_example': PYTHONPATH=/home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/prefix_override:/home/sk8terboi/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_example build --build-base /home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/build install --record /home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/install.log --single-version-externally-managed install_data
+[1.018s] running egg_info
+[1.019s] writing ../../build/arduinobot_py_example/arduinobot_py_example.egg-info/PKG-INFO
+[1.019s] writing dependency_links to ../../build/arduinobot_py_example/arduinobot_py_example.egg-info/dependency_links.txt
+[1.019s] writing entry points to ../../build/arduinobot_py_example/arduinobot_py_example.egg-info/entry_points.txt
+[1.019s] writing requirements to ../../build/arduinobot_py_example/arduinobot_py_example.egg-info/requires.txt
+[1.020s] writing top-level names to ../../build/arduinobot_py_example/arduinobot_py_example.egg-info/top_level.txt
+[1.021s] reading manifest file '../../build/arduinobot_py_example/arduinobot_py_example.egg-info/SOURCES.txt'
+[1.022s] writing manifest file '../../build/arduinobot_py_example/arduinobot_py_example.egg-info/SOURCES.txt'
+[1.022s] running build
+[1.022s] running build_py
+[1.022s] running install
+[1.023s] running install_lib
+[1.024s] running install_data
+[1.024s] running install_egg_info
+[1.027s] removing '/home/sk8terboi/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages/arduinobot_py_example-0.0.0-py3.10.egg-info' (and everything under it)
+[1.027s] Copying ../../build/arduinobot_py_example/arduinobot_py_example.egg-info to /home/sk8terboi/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages/arduinobot_py_example-0.0.0-py3.10.egg-info
+[1.028s] running install_scripts
+[1.059s] Installing simple_publisher script to /home/sk8terboi/arduinobot_ws/install/arduinobot_py_example/lib/arduinobot_py_example
+[1.060s] writing list of installed files to '/home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/install.log'
+[1.085s] Invoked command in '/home/sk8terboi/arduinobot_ws/src/arduinobot_py_example' returned '0': PYTHONPATH=/home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/prefix_override:/home/sk8terboi/arduinobot_ws/install/arduinobot_py_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_example build --build-base /home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/build install --record /home/sk8terboi/arduinobot_ws/build/arduinobot_py_example/install.log --single-version-externally-managed install_data

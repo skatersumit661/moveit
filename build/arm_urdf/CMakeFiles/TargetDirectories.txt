@@ -1,0 +1,9 @@
+/home/sk8terboi/arduinobot_ws/build/arm_urdf/CMakeFiles/uninstall.dir
+/home/sk8terboi/arduinobot_ws/build/arm_urdf/CMakeFiles/arm_urdf_uninstall.dir
+/home/sk8terboi/arduinobot_ws/build/arm_urdf/CMakeFiles/test.dir
+/home/sk8terboi/arduinobot_ws/build/arm_urdf/CMakeFiles/edit_cache.dir
+/home/sk8terboi/arduinobot_ws/build/arm_urdf/CMakeFiles/rebuild_cache.dir
+/home/sk8terboi/arduinobot_ws/build/arm_urdf/CMakeFiles/list_install_components.dir
+/home/sk8terboi/arduinobot_ws/build/arm_urdf/CMakeFiles/install.dir
+/home/sk8terboi/arduinobot_ws/build/arm_urdf/CMakeFiles/install/local.dir
+/home/sk8terboi/arduinobot_ws/build/arm_urdf/CMakeFiles/install/strip.dir

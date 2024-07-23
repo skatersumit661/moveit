@@ -1,0 +1,1 @@
+[0.006s] Invoking command in '/home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example': /usr/bin/cmake --build /home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example -- -j16 -l16

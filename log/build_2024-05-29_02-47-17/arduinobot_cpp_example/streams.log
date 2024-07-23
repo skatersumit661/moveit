@@ -1,0 +1,31 @@
+[0.008s] Invoking command in '/home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sk8terboi/arduinobot_ws/install/arduinobot_py_example:/opt/ros/humble /usr/bin/cmake /home/sk8terboi/arduinobot_ws/src/arduinobot_cpp_example -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example
+[0.016s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.085s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.089s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.128s] -- Added test 'lint_cmake' to check CMake code style
+[0.128s] -- Added test 'xmllint' to check XML markup files
+[0.129s] -- Configuring done
+[0.130s] -- Generating done
+[0.131s] -- Build files have been written to: /home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example
+[0.142s] Invoked command in '/home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sk8terboi/arduinobot_ws/install/arduinobot_py_example:/opt/ros/humble /usr/bin/cmake /home/sk8terboi/arduinobot_ws/src/arduinobot_cpp_example -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example
+[0.144s] Invoking command in '/home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sk8terboi/arduinobot_ws/install/arduinobot_py_example:/opt/ros/humble /usr/bin/cmake --build /home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example -- -j16 -l16
+[0.165s] Invoked command in '/home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sk8terboi/arduinobot_ws/install/arduinobot_py_example:/opt/ros/humble /usr/bin/cmake --build /home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example -- -j16 -l16
+[0.183s] Invoking command in '/home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sk8terboi/arduinobot_ws/install/arduinobot_py_example:/opt/ros/humble /usr/bin/cmake --install /home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example
+[0.186s] -- Install configuration: ""
+[0.187s] -- Execute custom install script
+[0.187s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/ament_index/resource_index/package_run_dependencies/arduinobot_cpp_example
+[0.192s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/ament_index/resource_index/parent_prefix_path/arduinobot_cpp_example
+[0.196s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/ament_prefix_path.sh
+[0.201s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/ament_prefix_path.dsv
+[0.206s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/path.sh
+[0.210s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/environment/path.dsv
+[0.215s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.bash
+[0.219s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.sh
+[0.224s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.zsh
+[0.229s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/local_setup.dsv
+[0.235s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/package.dsv
+[0.240s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/ament_index/resource_index/packages/arduinobot_cpp_example
+[0.245s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/cmake/arduinobot_cpp_exampleConfig.cmake
+[0.249s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/cmake/arduinobot_cpp_exampleConfig-version.cmake
+[0.254s] -- Symlinking: /home/sk8terboi/arduinobot_ws/install/arduinobot_cpp_example/share/arduinobot_cpp_example/package.xml
+[0.261s] Invoked command in '/home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sk8terboi/arduinobot_ws/install/arduinobot_py_example:/opt/ros/humble /usr/bin/cmake --install /home/sk8terboi/arduinobot_ws/build/arduinobot_cpp_example
